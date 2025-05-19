@@ -10,6 +10,10 @@
 </p>
 
 <p align="left">
+  👨‍💻 My Portfolio : https://thihako2.github.io/thiha-portfolio-pure/
+</p>
+
+<p align="left">
   📝 I regularly write articles on [Facebook](https://www.facebook.com/Bytermin)
 </p>
 
